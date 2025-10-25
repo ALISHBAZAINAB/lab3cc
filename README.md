@@ -1,3 +1,4 @@
+this line was added again remotely 
 Another line added remotely (for rebase test).
 
 this is local commit
