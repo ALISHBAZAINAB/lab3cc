@@ -8,3 +8,5 @@ This line was updated remotely again.
 Another line added locally (for rebase test).
 This is the first test line.
 
+This is for the amend commit test.
+This line was forgotten in the first commit.
