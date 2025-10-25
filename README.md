@@ -10,3 +10,4 @@ This is the first test line.
 
 This is for the amend commit test.
 This line was forgotten in the first commit.
+This line was edited from GitHub.
